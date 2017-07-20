@@ -28,7 +28,6 @@ import {PokemonService} from "./pokemon/pokemon.service";
     PokemonDetailsComponent
   ],
   imports: [
-    MaterialModule.forRoot(),
     AppRoutingModule,
     BrowserModule,
     FormsModule,
